@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RomanConverter</string>
+    <string name="decimal_hint">Enter Decimal Value</string>
+    <string name="decimal_title">DECIMAL NUMBER</string>
+    <string name="change_value">Tap To Change The Value</string>
+    <string name="roman_hint">Enter Roman Value</string>
+    <string name="roman_title">ROMAN NUMBER</string>
+    <string name="heading">Roman 2 Decimal Converter</string>
+    <string name="mad">MAD MicroProject</string>
+</resources>
